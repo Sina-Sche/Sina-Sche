@@ -9,7 +9,6 @@
 - ⚡ Fun fact: I love to play the Ukulele🎸
 
 
-
 [![Sina's github stats](https://github-readme-stats.vercel.app/api?username=sina-sche&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sina-sche&" alt="sina-sche" /></p>
 <h3 align="left">Languages and Tools:</h3>
