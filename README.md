@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&text=Hi,%20%I%27m%20Sina&fontSize=60&animation=fadeIn&fontAlignY=28)
 
-- 🚩 I just completed the Web Development Bootcamp with neuefische
+- 🚩 I just completed the Web Development Bootcamp with [neuefische](https://www.neuefische.de/)
 - 🔭 I’m currently working on my capstone project [SustainAtives](https://github.com/Sina-Sche/sustainatives)
 - 🌱 I’m currently learning **as much as I can**
-- 👯 I am planning to take on the [100DaysOfCode](https://www.100daysofcode.com/) challenge next to challenge myself. Who wants to join?
+- 👯 I am planning to take on the [100DaysOfCode](https://www.100daysofcode.com/) challenge next to challenge myself.
 - 🔍 I am looking for my first job as a Web Developer, anywhere in Germany and/or remote!
 - 📫 How to reach me: connect via [LinkedIn](https://www.linkedin.com/in/sina-scheckenbach-2a8b241bb/)
 - ⚡ Fun fact: I love to play the Ukulele🎸
