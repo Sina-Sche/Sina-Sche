@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&text=Hi,%20%I%27m%20Sina&fontSize=60&animation=fadeIn&fontAlignY=28)
 
-- 🚩 I just completed the Web Development Bootcamp with [neuefische](https://www.neuefische.de/)
+- 🚩 I completed the Web Development Bootcamp with [neuefische](https://www.neuefische.de/)
 - 🔭 I’m currently working on my capstone project [SustainAtives](https://github.com/Sina-Sche/sustainatives)
 - 📖 I am trying to learn as much as possible!
 - 👯 I am planning to take on the [100DaysOfCode](https://www.100daysofcode.com/) challenge next to learn even more!
