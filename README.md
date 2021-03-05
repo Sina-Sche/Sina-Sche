@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my capstone project [SustainAtives](https://github.com/Sina-Sche/sustainatives)
 - 📖 I am trying to learn as much as possible!
 - 👯 I am planning to take on the [100DaysOfCode](https://www.100daysofcode.com/) challenge next to learn even more!
-- 🔍 I am looking for my first job as a Web Developer, anywhere in Germany and/or remote!
+- 🔍 I am looking forward to start my first job as a Web Developer in April!
 - 📫 How to reach me: connect via [LinkedIn](https://www.linkedin.com/in/sina-scheckenbach-2a8b241bb/)
 - 🌱 I am interested in all projects related to Sustainability
 - ⚡ Fun fact: I love to play the Ukulele🎸
